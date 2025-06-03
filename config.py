@@ -1,0 +1,5 @@
+wifi_ssid = 'ZTE_9F7AC2'
+wifi_password = '6LE66868TE'
+mqtt_server = '81.7.10.99'
+mqtt_username = 'klaus'
+mqtt_password = 'DHisddS!'
